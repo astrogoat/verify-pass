@@ -3,8 +3,6 @@
 namespace Astrogoat\VerifyPass\Settings;
 
 use Helix\Lego\Settings\AppSettings;
-use Astrogoat\VerifyPass\Actions\VerifyPassAction;
-use Illuminate\Support\Str;
 
 class VerifyPassSettings extends AppSettings
 {

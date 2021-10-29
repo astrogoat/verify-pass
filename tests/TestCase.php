@@ -2,9 +2,9 @@
 
 namespace Astrogoat\VerifyPass\Tests;
 
+use Astrogoat\VerifyPass\VerifyPassServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Astrogoat\VerifyPass\VerifyPassServiceProvider;
 
 class TestCase extends Orchestra
 {

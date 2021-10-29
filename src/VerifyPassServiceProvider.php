@@ -2,11 +2,11 @@
 
 namespace Astrogoat\VerifyPass;
 
+use Astrogoat\VerifyPass\Settings\VerifyPassSettings;
 use Helix\Lego\Apps\App;
 use Helix\Lego\LegoManager;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Astrogoat\VerifyPass\Settings\VerifyPassSettings;
 
 class VerifyPassServiceProvider extends PackageServiceProvider
 {
